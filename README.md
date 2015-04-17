@@ -15,6 +15,10 @@ li {float:left;display:inline}
 <body>
 
 <h1>website attempts/notes</h1>
+
+<img src="https://github.com/lattivalidus/simple-site.wiki.git" alt="Iseewhatyoudidthere" width="200px">
+
+
 <div class="inline">
 <ul>
 <li>home</li>
