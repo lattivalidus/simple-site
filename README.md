@@ -3,16 +3,20 @@
 <head>
 <style>
 
-.inline {list-style-type:none;float:left;display:inline;}
+h1  {text-align:center}
 
+.inline {list-style-type:none;float:left;margin:0;padding:0}
+.inline2  {list-style-type:none;
+li {float:left;display:inline}
 
 </style>
 </head>
 
 <body>
 
+<h1>website attempts/notes</h1>
 <div class="inline">
-<ul class="inline">
+<ul>
 <li>home</li>
 <li>other button</li>
 <li>one more button</li>
@@ -20,6 +24,12 @@
 </ul>
 </div>
 
+<h2>notes</h2>
+<ul>
+<li>external style sheet</li>
+<ul><li> add "link rel="stylesheet" type="text/css" href="mystyle.css"" in the head part of the code to reference a style sheet</li></ul>
+
+</ul>
 
 </body>
 </html>
