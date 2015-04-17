@@ -4,7 +4,7 @@
 <head>
 <style>
 
-.inline {list-style-type:none;display:inline;]
+.inline {list-style-type:none;display:inline;}
 
 
 </style>
