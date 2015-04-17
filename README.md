@@ -1,4 +1,3 @@
-# simple-site
 <DOCTYPE! html>
 <html>
 <head>
