@@ -4,7 +4,7 @@
 <head>
 <style>
 
-.inline {list-style-type:none;display:inline;}
+.inline {list-style-type:none;float:left;display:inline;}
 
 
 </style>
@@ -12,7 +12,7 @@
 
 <body>
 
-<div>
+<div class="inline">
 <ul class="inline">
 <li>home</li>
 <li>other button</li>
